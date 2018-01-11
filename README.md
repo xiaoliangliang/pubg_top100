@@ -45,3 +45,5 @@ pattern_solo = re.compile('{"Region":"as","Season":"2018-01","Match":"duo","Stat
 1. 用PhantomJS代替Chrome浏览器
 2. 加入多线程爬取
 
+## 爬取之后用pandas进行数据预处理的结果：
+![alt text](C:\Users\Administrator\Desktop\123.png "Title")
