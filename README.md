@@ -9,15 +9,7 @@
 
 # 参数修改
 
-以下是欧服&solo模式&2018第一赛季的参数：
-`<def main(offset):
-    url = 'http://maoyan.com/board/4?offset=' + str(offset)
-    html = get_one_
-    page(url)
-    for item in parse_one_page(html):
-        print(item)
-        write_to_file(item)>`
-        
+以下是欧服&solo模式&2018第一赛季的参数： 
 `#模式参数&区服参数
   mode = '1'
   region = '2'
