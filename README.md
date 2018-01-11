@@ -46,4 +46,4 @@ pattern_solo = re.compile('{"Region":"as","Season":"2018-01","Match":"duo","Stat
 2. 加入多线程爬取
 
 ## 爬取之后用pandas进行数据预处理的结果：
-![alt text](/123.png "title")
+![alt text](https://wx3.sinaimg.cn/mw690/73081ed7gy1fncm4oqz2uj20dh0chq3h.jpg "title")
