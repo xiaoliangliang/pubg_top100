@@ -11,14 +11,14 @@
 
 以下是欧服&solo模式&2018第一赛季的参数：
 
-`<#模式参数&区服参数
-mode = '1'
-region = '2'
-mode1 = 'solo'
-region1 = 'eu'
-
-#正则表达式pattern参数
-pattern_solo = re.compile('{"Region":"eu","Season":"2018-01","Match":"solo","Stats":(.*?)}]}',re.S)>`
+`#模式参数&区服参数
+  mode = '1'
+  region = '2'
+  mode1 = 'solo'
+  region1 = 'eu'
+  
+  #正则表达式pattern参数
+  pattern_solo = re.compile('{"Region":"eu","Season":"2018-01","Match":"solo","Stats":(.*?)}]}',re.S)`
 
 ### 这里可以选择不同的模式&区服，如果要改成亚服&双排模式的top100数据：
 
